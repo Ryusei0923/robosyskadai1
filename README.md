@@ -31,4 +31,5 @@
 # 動画  
 https://youtu.be/RbYR-4FwPWM  
 # ライセンス  
+GNU General Public Lisence v3.0  
 https://github.com/Ryusei0923/robosyskadai1/blob/9520e6fafbf06cdb82e50ef6338b163bd2bcead3/COPYING
