@@ -3,9 +3,7 @@
 # 回路図 
 LEDは右からLED1,LED2,LED3とします。  
 LED1は青色、LED2は黄色、LED3は赤色に対応しています。  
-<img src=
-"https://user-images.githubusercontent.com/95923905/146580737-023d7808-2570-452a-a581-a450c343f24c.png"
-width="1000px">
+<img src="https://user-images.githubusercontent.com/95923905/146581184-9f449ff9-57dd-408d-bbba-96befdfac01d.png" width="1000px">
 # 概要  
 講義内で作成したプログラムを参考にして、自分自身の改良を加え、LEDを3個に増やして点灯、消灯をさせるプログラムを作成しました。
 # 動作環境  
